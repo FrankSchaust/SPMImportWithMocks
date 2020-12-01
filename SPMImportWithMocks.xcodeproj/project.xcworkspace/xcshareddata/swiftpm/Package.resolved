@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Cuckoo",
+        "repositoryURL": "https://github.com/Brightify/Cuckoo",
+        "state": {
+          "branch": null,
+          "revision": "0ef473893cc068425c118d1cfe5629cbca1ef343",
+          "version": "1.4.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
