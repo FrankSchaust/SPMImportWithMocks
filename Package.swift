@@ -13,7 +13,6 @@ let package = Package(
             targets: ["SPMImport"]),
         .library(
             name: "Mocks",
-            type: .dynamic,
             targets: ["Mocks"]
         )
     ],
